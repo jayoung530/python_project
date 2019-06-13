@@ -49,3 +49,4 @@ for n in df_pos.index:
 map.save('C:/Users/SAMSUNG/Desktop/map1.html')
 ~~~
 ![screenshot](https://github.com/jayoung530/python_project/blob/master/%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C%EC%A7%80%EB%8F%84.png)
+![screenshot1](https://github.com/jayoung530/python_project/blob/master/%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C%EC%A7%80%EB%8F%84_%EC%9D%B4%EB%A6%84%ED%91%9C%EC%8B%9C.png)
